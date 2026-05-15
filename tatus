@@ -1,0 +1,61 @@
+[33mcommit 4d728287ae8128d66f349121c61bc30c5833b508[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mfavs[m[33m)[m
+Author: SilverDragon847 <syrisvirus06@gmail.com>
+Date:   Thu May 14 21:17:44 2026 -0700
+
+    K: added favs
+
+[33mcommit 28d56c95b5fa386ab93adc8464c36b4da4e30836[m[33m ([m[1;32mmain[m[33m)[m
+Author: SilverDragon847 <syrisvirus06@gmail.com>
+Date:   Thu May 14 21:08:34 2026 -0700
+
+    J: added banned customers
+
+[33mcommit 5b42095b06624ddb1d47cc288adfcd889879d917[m
+Merge: c439ad1 9fc4090
+Author: SilverDragon847 <syrisvirus06@gmail.com>
+Date:   Thu May 14 21:04:07 2026 -0700
+
+    H: fixed conflicts with delete_records branch
+
+[33mcommit c439ad1125ab8f62d994f4197b3172e54375ad4f[m
+Author: SilverDragon847 <syrisvirus06@gmail.com>
+Date:   Thu May 14 21:02:04 2026 -0700
+
+    G: updated customers and partners
+
+[33mcommit 9fc4090fb3f72fa9ec78ba71f7fddcf2197059df[m
+Author: SilverDragon847 <syrisvirus06@gmail.com>
+Date:   Thu May 14 20:56:50 2026 -0700
+
+    F: deleted neccesary components from partners and customers
+
+[33mcommit b75769c462bc9de0d3ac14ada911dc9762e8e9d1[m
+Merge: 6496521 7d86779
+Author: SilverDragon847 <syrisvirus06@gmail.com>
+Date:   Thu May 14 20:48:37 2026 -0700
+
+    E: fine, Grag can have this one
+
+[33mcommit 64965216256925d8ab0bd3399dc74cf0024a6b80[m
+Author: SilverDragon847 <syrisvirus06@gmail.com>
+Date:   Thu May 14 20:40:57 2026 -0700
+
+    C: update customers and partners
+
+[33mcommit 7d86779d41445f1b38aa0de21d760950ee929ca0[m
+Author: SilverDragon847 <syrisvirus06@gmail.com>
+Date:   Thu May 14 20:28:37 2026 -0700
+
+    D: add jayson to customers
+
+[33mcommit c9b7179b9c8bbd9877ddf317f0952480fd845231[m
+Author: SilverDragon847 <syrisvirus06@gmail.com>
+Date:   Thu May 14 09:00:03 2026 -0700
+
+    B: recovery
+
+[33mcommit 0d16f954dfda53be7e875da6a23698c428cf68af[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: wagslane <lane.c.wagner@gmail.com>
+Date:   Wed Jun 26 11:22:51 2024 -0600
+
+    A: The Founding of MegaCorp and the End of Art
